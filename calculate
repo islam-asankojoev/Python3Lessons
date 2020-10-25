@@ -6,3 +6,5 @@ print(eval(x))
 x = ['apple', 'orange' , 'lime', 'qiwi']
 
 print('Привет мир')
+
+print(';asdsadasdasd')

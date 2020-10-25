@@ -1,2 +1,4 @@
 x = input()
 print(eval(x))
+
+print('Привет мир')

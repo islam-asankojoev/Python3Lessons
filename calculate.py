@@ -11,3 +11,5 @@ b = ('asd',12)
 print(type(b))
 
 print('Delete')
+
+print(123)

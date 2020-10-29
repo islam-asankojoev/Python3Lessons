@@ -9,3 +9,5 @@ print('Привет мир')
 
 b = ('asd',12)
 print(type(b))
+
+print('Delete')

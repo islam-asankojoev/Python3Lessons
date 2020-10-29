@@ -17,6 +17,11 @@ print('Delete')
 print(123)
 
 
+
 x = 'asdasd'
 
 x = ['asd','asd','asd']
+
+
+x = 'asdasd'
+

@@ -6,7 +6,6 @@ print(eval(x))
 x = ['apple', 'orange' , 'lime', 'qiwi']
 
 print('Привет мир')
-print(';asdsadasdasd')
+
 b = ('asd',12)
 print(type(b))
-
